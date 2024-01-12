@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.1100.0.444",
   },
   "resources": [
     {"id":{"name":"blacked","path":"rooms/blacked/blacked.yy",},},
@@ -42,6 +42,7 @@
     {"roomId":{"name":"redroom","path":"rooms/redroom/redroom.yy",},},
     {"roomId":{"name":"blacked","path":"rooms/blacked/blacked.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
